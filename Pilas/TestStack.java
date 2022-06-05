@@ -5,7 +5,7 @@ public class TestStack {
 		
 		Stack<Integer> link = new StackLink<Integer>();
 
-		System.out.println("List");
+		System.out.println("Pila");
 		try {
             //Función push
 			link.push(10);
